@@ -6,10 +6,9 @@ Test task for epicmax employer
 
 ## Demo
 
-```
+
 [https://warchiefrus.github.io/epicmax/](https://warchiefrus.github.io/epicmax/)
 
-```
 
 ## task-description
 
