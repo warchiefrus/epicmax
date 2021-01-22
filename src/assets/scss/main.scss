@@ -1,0 +1,35 @@
+@import 'variables.scss';
+@import 'reset.scss';
+
+body {
+  overflow-y: scroll;
+}
+
+.container {
+  max-width: 800px;
+  margin: 0 auto;
+  overflow-wrap: break-word;
+}
+
+.pa-4 {
+  padding: 4px;
+}
+
+.mr-2 {
+  margin-right: 8px;
+}
+.mr-5 {
+  margin-right: 20px;
+}
+
+.text--yellow-1 {
+  color: $yellow-1;
+}
+
+.text--blue-darken-1 {
+  color: $blue-darken-1;
+}
+
+.text--red-darken-4 {
+  color: $red-darken-4;
+}
