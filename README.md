@@ -18,6 +18,12 @@ Note:
 * We expect you to do this at first attempt and spend no more than 4 hours.
 ```
 
+## Demo
+
+```
+https://warchiefrus.github.io/epicmax/
+```
+
 ## Project setup
 
 ```
