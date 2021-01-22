@@ -1,6 +1,19 @@
 # epicmax-test-task
 
 ```
+Test task for epicmax employer
+```
+
+## Demo
+
+```
+[https://warchiefrus.github.io/epicmax/](https://warchiefrus.github.io/epicmax/)
+
+```
+
+## task-description
+
+```
 Develop a small app that shows a list of all JavaScript repos on Github, sorted by number of stars.
 
 Requirements:
@@ -16,12 +29,6 @@ Note:
 * Use Vue.js. Any flavor you’re comfortable with (ts, jsx, scss, scoped, bem, etc).
 * You can use any other libraries (but no UI libries like Vuetify/Element/Material as we want to see custom styling).
 * We expect you to do this at first attempt and spend no more than 4 hours.
-```
-
-## Demo
-
-```
-https://warchiefrus.github.io/epicmax/
 ```
 
 ## Project setup
